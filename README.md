@@ -25,7 +25,7 @@ fetch 远程分支到本地某分支：git fetch origin <orginname>:<localname>
 注意： 不能删除当前所在本地分支。
 ```
 
-#查看提交信息日志
+查看提交信息日志
 ```
 查看分支最近一次的修改列表：git status
 查看分支的commit信息(倒叙排列)
