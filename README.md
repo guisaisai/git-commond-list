@@ -109,8 +109,9 @@ git config --global user.email <email>
 copy <https://segmentfault.com/a/1190000016676290>
 
 ## git同时push到多个远程地址
+```
 添加github：
 git remote add origin git@github.com:baijunyao/laravel-bjyblog.git
 添加码云
 git remote set-url --add origin git@gitee.com:baijunyao/thinkbjy.git
-
+```
